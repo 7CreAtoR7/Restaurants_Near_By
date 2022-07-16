@@ -5,9 +5,8 @@ plugins {
 android {
 
     dependencies {
-        implementation 'com.yandex.android:maps.mobile:4.0.0-lite'
+        implementation 'com.yandex.android:maps.mobile:4.1.0-full'
     }
-
     compileSdkVersion 31
     buildToolsVersion "31.0.0"
 
